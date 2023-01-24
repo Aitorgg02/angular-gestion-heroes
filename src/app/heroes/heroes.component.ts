@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Heroe } from '../heroe';
 import {GestionarHeroesService} from '../servicios/gestionar-heroes.service';
- 
+
 @Component({
   selector: 'app-heroes',
   templateUrl: './heroes.component.html',
